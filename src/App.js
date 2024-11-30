@@ -26,7 +26,7 @@ function App() {
           <h3>Join A Chat</h3>
           <input
             type="text"
-            placeholder="Kartikay"
+            placeholder="Vishesh"
             onChange={(event) => {
               setUsername(event.target.value);
             }}
